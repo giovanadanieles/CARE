@@ -3,8 +3,8 @@
 
 <h3>Developers</h3>
 <ul>
-  <li>Caio Augusto Duarte Basso</li><br>
-  <li>Gabriel Garcia Lorencetti</li><br>
-  <li>Giovana Daniele da Silva</li><br>
+  <li>Caio Augusto Duarte Basso</li>
+  <li>Gabriel Garcia Lorencetti</li>
+  <li>Giovana Daniele da Silva</li>
   <li>João Pedro Almeida Santos Secundino</li>
 </ul>
